@@ -10,6 +10,10 @@ https://db-blog.web.cern.ch/blog/luca-canali/2017-09-performance-analysis-cpu-in
 
 Эксперименты по физике высоких энергий в ЦЕРНе производят и собирают больше данных, чем когда-либо прежде, недавно нарушив рекорд 12,3 ПБ в месяц. CERN предоставляет услуги Hadoop и Spark и тесно сотрудничает с научными сообществами в их стремлении проанализировать и понять эти огромные объемы данных физики высоких энергий и Океана Хиггса. В этом докладе будет представлен обзор текущей инфраструктуры на основе Spark и других ключевых компонентов экосистемы Hadoop. 
 
+![Image alt](https://image.slidesharecdn.com/hadoopandsparkservicesatcernfinal-180427232551/95/hadoop-and-spark-services-at-cern-1-638.jpg)
+
+Hadoop and Spark services at CERN
+
 https://www.youtube.com/watch?v=Z7l3sV4dF4g
 
 ![Image alt](https://i.ytimg.com/vi/3SiGujnfDVc/hqdefault.jpg)
