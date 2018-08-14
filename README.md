@@ -1,6 +1,6 @@
 # [CPU-нагрузки в Apache Spark] Тестирование [CERN]
 
-https://docs.google.com/document/d/1ZOUElxEjKRccw6alcZu2LWon90XUTyywAOXdWj1gVvw/edit#heading=h.d6hqokugdhay
+https://docs.google.com/document/d/1ZOUElxEjKRccw6alcZu2LWon90XUTyywAOXdWj1gVvw/
 
 Статья из ЦЕРН на английском
 
