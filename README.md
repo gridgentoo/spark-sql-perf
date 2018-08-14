@@ -13,11 +13,13 @@ https://db-blog.web.cern.ch/blog/luca-canali/2017-09-performance-analysis-cpu-in
 https://www.youtube.com/watch?v=Z7l3sV4dF4g
 
 ![Image alt](https://i.ytimg.com/vi/3SiGujnfDVc/hqdefault.jpg)
+
 Океана Хиггса : : Dark Matter vs Dark Energy - Leonard Susskind
 
 https://github.com/gridgentoo/spark-sql-perf
 
 ![Image alt](https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5efc8dbe4963321ede8d64c6398b94eb5a9797a0_800x600.jpg)
+
 TEDxCaltech - Leonard Susskind - Richard Feynman
 
 https://www.youtube.com/watch?v=hpjwotips7E
