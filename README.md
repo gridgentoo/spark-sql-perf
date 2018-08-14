@@ -16,6 +16,10 @@ Hadoop and Spark services at CERN
 
 https://www.youtube.com/watch?v=Z7l3sV4dF4g
 
+Hadoop and Spark services at CERN
+
+https://www.slideshare.net/Hadoop_Summit/hadoop-and-spark-services-at-cern
+
 ![Image alt](https://i.ytimg.com/vi/3SiGujnfDVc/hqdefault.jpg)
 
 Океана Хиггса : : Dark Matter vs Dark Energy - Leonard Susskind
