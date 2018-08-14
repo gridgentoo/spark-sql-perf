@@ -1,3 +1,8 @@
+# Hadoop and Spark services at CERN
+
+Эксперименты по физике высоких энергий в ЦЕРНе производят и собирают больше данных, чем когда-либо прежде, недавно нарушив рекорд 12,3 ПБ в месяц. CERN предоставляет услуги Hadoop и Spark и тесно сотрудничает с научными сообществами в их стремлении проанализировать и понять эти огромные объемы данных физики и инфраструктуры. В этом докладе будет представлен обзор текущей инфраструктуры на основе Spark и других ключевых компонентов экосистемы Hadoop. 
+https://www.youtube.com/watch?v=Z7l3sV4dF4g
+
 # Spark SQL Performance Tests
 
 [![Build Status](https://travis-ci.org/databricks/spark-sql-perf.svg)](https://travis-ci.org/databricks/spark-sql-perf)
