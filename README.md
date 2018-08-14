@@ -16,6 +16,10 @@ https://www.youtube.com/watch?v=Z7l3sV4dF4g
 
 https://github.com/gridgentoo/spark-sql-perf
 
+TEDxCaltech - Leonard Susskind - Richard Feynman
+
+https://www.youtube.com/watch?v=hpjwotips7E
+
 # Spark SQL Performance Tests
 
 [![Build Status](https://travis-ci.org/databricks/spark-sql-perf.svg)](https://travis-ci.org/databricks/spark-sql-perf)
