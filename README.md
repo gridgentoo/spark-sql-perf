@@ -15,6 +15,8 @@ https://www.youtube.com/watch?v=Z7l3sV4dF4g
 
 [![Build Status](https://travis-ci.org/databricks/spark-sql-perf.svg)](https://travis-ci.org/databricks/spark-sql-perf)
 
+Это framework для тестирования производительности для [Spark SQL](https://spark.apache.org/sql/) in [Apache Spark](https://spark.apache.org/) 
+
 This is a performance testing framework for [Spark SQL](https://spark.apache.org/sql/) in [Apache Spark](https://spark.apache.org/) 2.2+.
 
 **Note: This README is still under development. Please also check our source code for more information.**
