@@ -12,6 +12,10 @@ https://db-blog.web.cern.ch/blog/luca-canali/2017-09-performance-analysis-cpu-in
 
 https://www.youtube.com/watch?v=Z7l3sV4dF4g
 
+Dark Matter vs Dark Energy - Leonard Susskind
+
+https://github.com/gridgentoo/spark-sql-perf
+
 # Spark SQL Performance Tests
 
 [![Build Status](https://travis-ci.org/databricks/spark-sql-perf.svg)](https://travis-ci.org/databricks/spark-sql-perf)
