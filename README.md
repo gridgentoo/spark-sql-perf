@@ -24,7 +24,7 @@ https://www.slideshare.net/Hadoop_Summit/hadoop-and-spark-services-at-cern
 
 Океана Хиггса : : Dark Matter vs Dark Energy - Leonard Susskind
 
-https://github.com/gridgentoo/spark-sql-perf
+https://www.youtube.com/watch?v=3SiGujnfDVc
 
 ![Image alt](https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5efc8dbe4963321ede8d64c6398b94eb5a9797a0_800x600.jpg)
 
